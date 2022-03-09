@@ -57,7 +57,7 @@ export function Home(){
         
 
         <Text style={styles.title} testID="welcome">
-            Welcome, Rodrigo 
+            Welcome, Gabriel 
         </Text>  
 
         <Text style={styles.greetings}>
